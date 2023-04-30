@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Doggy Doo-Doo Cleaners</title>
+  </head>
+  <body>
+    <h1>Welcome to Doggy Doo-Doo Cleaners!</h1>
+    <p>We clean up dog poop so you don't have to!</p>
+    <h2>Our Services</h2>
+    <ul>
+      <li>Pick up dog poop from your yard</li>
+      <li>Clean and deodorize your yard</li>
+      <li>Dispose of dog poop properly</li>
+    </ul>
+    <h2>Why Choose Us?</h2>
+    <ul>
+      <li>We love dogs!</li>
+      <li>We're fast and efficient</li>
+      <li>We're affordable</li>
+    </ul>
+    <h2>Contact Us</h2>
+    <p>Call us at 555-1234 or email us at info@doggydoodoocleaners.com to schedule a cleaning!</p>
+  </body>
+</html>
